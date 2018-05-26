@@ -1,6 +1,6 @@
 # WORDCOUNT
 HomeWorK-TWO
-格式：wc.exe [parameter][filename]
+格式：WC.exe [parameter][filename]
 1、基本功能
 
 支持 -c 统计文件字符数
