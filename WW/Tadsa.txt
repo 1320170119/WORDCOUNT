@@ -1,0 +1,9 @@
+int main(int argc, char* argv[])
+{
+	FILE *fp;
+	char ch;
+	int num_word = 0, num_line = 0, num_char = 0, flag;
+	fp = fopen("text.txt", "a+");
+	if (fp == NULL) {
+		printf("the file open bit");
+		}

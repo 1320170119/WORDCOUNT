@@ -1,0 +1,13 @@
+﻿  源.cpp
+d:\ww\ww\源.cpp(16): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+d:\ww\ww\源.cpp(29): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+d:\ww\ww\源.cpp(49): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+d:\ww\ww\源.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+d:\ww\ww\源.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+d:\ww\ww\源.cpp(186): warning C4101: “choice”: 未引用的局部变量
+d:\ww\ww\源.cpp(188): warning C4101: “s”: 未引用的局部变量
+d:\ww\ww\源.cpp(254): warning C4101: “choice”: 未引用的局部变量
+d:\ww\ww\源.cpp(256): warning C4101: “s”: 未引用的局部变量

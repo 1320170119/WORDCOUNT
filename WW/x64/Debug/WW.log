@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (WW.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\ww\ww\main.cpp(139): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+d:\ww\ww\main.cpp(132): warning C4101: “choice”: 未引用的局部变量
+d:\ww\ww\main.cpp(134): warning C4101: “s”: 未引用的局部变量
+d:\ww\ww\main.cpp(200): warning C4101: “choice”: 未引用的局部变量
+d:\ww\ww\main.cpp(202): warning C4101: “s”: 未引用的局部变量
+  WW.vcxproj -> D:\WW\x64\Debug\WC.exe
+  WW.vcxproj -> D:\WW\x64\Debug\WC.pdb (Full PDB)
